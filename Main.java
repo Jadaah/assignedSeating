@@ -7,6 +7,7 @@ class Main {
 
     // declare the seat number
     String[] names = new String[15];
+    
     // declare the unknown names
     Scanner scan = new Scanner(System.in);
 
